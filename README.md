@@ -5,4 +5,8 @@ For more information, please refer to our [Video link](https://youtu.be/G6nf6FLQ
 
 ## Video
 
-[![Screenshot](https://github.com/JieFangD/AI-News-Scoring-System/Video.eps)]
+[![Screenshot](https://github.com/JieFangD/AI-News-Scoring-System/blob/master/Video.eps)]
+
+## Demo
+
+[![Screenshot](https://github.com/JieFangD/AI-News-Scoring-System/blob/master/Demo.eps)]
