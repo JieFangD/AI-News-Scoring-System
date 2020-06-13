@@ -5,8 +5,8 @@ For more information, please refer to our [Video link](https://youtu.be/G6nf6FLQ
 
 ## Video
 
-![](https://github.com/JieFangD/AI-News-Scoring-System/blob/master/Video.png){:height="200px" width="200px"}
+<img src="https://github.com/JieFangD/AI-News-Scoring-System/blob/master/Video.png" width="200" height="200">
 
 ## Demo
 
-![](https://github.com/JieFangD/AI-News-Scoring-System/blob/master/Demo.png){:height="200px" width="200px"}
+<img src="https://github.com/JieFangD/AI-News-Scoring-System/blob/master/Demo.png" width="200" height="200">
