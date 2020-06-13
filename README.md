@@ -12,4 +12,4 @@ For more information, please refer to our:
 
 ## Demo
 
-<img src="https://github.com/JieFangD/AI-News-Scoring-System/blob/master/Demo.png" width="170" height="170">
+<img src="https://github.com/JieFangD/AI-News-Scoring-System/blob/master/Demo.png" width="175" height="175">
